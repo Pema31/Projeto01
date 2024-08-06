@@ -9,7 +9,7 @@ body{
     background-size: cover;*/
 
     background: var(--bg-url) no-repeat top center/cover;
-    height: 180vh;
+    height: 128vh;
 }
 body *{
     font-family: 'inter',sans-serif;
